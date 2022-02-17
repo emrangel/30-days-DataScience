@@ -11,3 +11,4 @@ En este informe haremos un resumen (o summary) del conjunto de datos iris.
 ```{r}
 summary(iris)
 ```
+
