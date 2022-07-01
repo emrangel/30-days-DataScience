@@ -7,7 +7,5 @@ output: html_document
 
 Aquí encontrará recursos para aprender sobre la ciencia de datos.
 
-```{r}
-summary(iris)
-```
+👨‍🦳
 
